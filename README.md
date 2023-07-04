@@ -43,7 +43,7 @@
 
 <br>
 
-      Additionally, I have designed a Neural Network Model for classification, which has yielded a Validation Accuracy of 86.78 % 
+      Also, designed a Neural Network Model that yielded a Validation Accuracy of 86.78 % 
 
 <hr>
 <p align="center">Dataset (Kaggle) Link: https://www.kaggle.com/datasets/porinitahoque/parkinsons-disease-pd-data-analysis</p>
