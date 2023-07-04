@@ -23,6 +23,28 @@
 - TQWT Features: Columns 323 to 754
 - Class: Column 755
 
+### Classification Models Used
+- K Nearest Neighbor 
+- Logistic Regression 
+- Support Vector Machine
+- Random Forest Classifier 
+- Hist Gradient Boosting Classifier
+- Light Gradient Boosting Machine
+
+### Results Overview
+| Classifier | Accuracy | Precision | Recall | F1-Score |
+|:----------:|:-------:|:---------:|:------:|:-------:|
+| KNN        | 83.5526 |  83.9635  | 83.5526| 81.7208 |
+| SVM        | 82.8947 |  82.2086  | 82.8947| 81.8672 |
+| RFC        | 83.5526 |  85.4221  | 83.5526| 81.1188 |
+| LR         | 82.8947 |  82.8548  | 82.8947| 81.1308 |
+| HGBC       |   87.5  |  88.6068  |  87.5  | 86.3099 |
+| Light-GBM  | 86.8421 |  88.8509  | 86.8421| 85.2636 |
+
+<br>
+
+      Additionally, I have designed a Neural Network Model for classification, which has yielded a Validation Accuracy of 86.78 % 
+
 <hr>
 <p align="center">Dataset (Kaggle) Link: https://www.kaggle.com/datasets/porinitahoque/parkinsons-disease-pd-data-analysis</p>
 <hr>
